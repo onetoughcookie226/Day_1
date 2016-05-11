@@ -1,0 +1,42 @@
+/*Base style-----------*/
+
+  body {
+        text-align:center;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        color: gray;
+    }
+
+    h1 {
+        color: gray;
+        font-size: 60px;
+    }
+
+    .instructions {
+        font-size: 20px;
+        color: gray;
+        margin-top: 50px;
+    }
+
+    .question {
+        color: orange;
+        margin-top: 70px;
+    }
+
+    .content {
+     overflow: auto;
+    }
+
+    .images img {
+        width:180px;
+        height:180px;
+    }
+
+    img {
+        margin: 1px;
+    }
+
+    .main_footer {
+        margin: 50px;
+    }
